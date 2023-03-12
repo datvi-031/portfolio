@@ -107,7 +107,7 @@ nav {
   width: 100%;
   height: 100vh;
   z-index: 1;
-  background-image: url('https://github.com/datvi-031/portfolio/blob/main/back2.png');
+  background-image: url('./back.png');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
